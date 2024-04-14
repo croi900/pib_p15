@@ -1,0 +1,33 @@
+# Lesson: Introduction to Pythagorean Theorem and Digital Image Compression
+
+## Objective:
+- Understand the Pythagorean Theorem and its application in Euclidean geometry.
+- Learn about digital image compression using the discrete cosine transform (DCT).
+
+## Vocabulary:
+- Pythagorean Theorem
+- Euclidean geometry
+- Digital Image Compression
+- Discrete Cosine Transform (DCT)
+
+## Introduction:
+In this lesson, we will explore the Pythagorean Theorem, a fundamental concept in mathematics, and its practical application in Euclidean geometry. Additionally, we will delve into the world of digital image compression, specifically focusing on the discrete cosine transform (DCT) used in JPEG compression.
+
+## Pythagorean Theorem:
+The Pythagorean Theorem, attributed to the ancient Greek mathematician Pythagoras, is a fundamental relation in Euclidean geometry. It states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides. Mathematically, it can be expressed as:
+
+\[ a^2 + b^2 = c^2 \]
+
+Where:
+- \( a \) and \( b \) are the lengths of the two shorter sides (legs) of the right triangle.
+- \( c \) is the length of the hypotenuse.
+
+The Pythagorean Theorem is widely used in various fields such as architecture, engineering, and physics.
+
+## Digital Image Compression:
+JPEG (Joint Photographic Experts Group) is a commonly used image compression standard that employs a lossy form of compression based on the discrete cosine transform (DCT). The DCT is a mathematical operation that converts each frame or field of a video source from the spatial domain into the frequency domain. This transformation allows for efficient representation of image data while reducing file size.
+
+## Conclusion:
+Understanding the Pythagorean Theorem provides a solid foundation in geometry and mathematics, while knowledge of digital image compression techniques like DCT is essential in the field of multimedia and technology. By mastering these concepts, you will be equipped to explore more advanced topics in mathematics and digital media.
+
+Now, let's apply our knowledge of the Pythagorean Theorem and digital image compression to solve problems and analyze real-world scenarios.

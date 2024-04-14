@@ -1,0 +1,17 @@
+### Additional Information:
+
+#### Pythagorean Theorem:
+- **Definition:** In mathematics, the Pythagorean Theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.
+- **Formula:** If a and b are the lengths of the two shorter sides of a right triangle, and c is the length of the hypotenuse, the theorem can be expressed as: \( a^2 + b^2 = c^2 \).
+- **Applications:** The Pythagorean Theorem is widely used in various fields such as physics, engineering, architecture, and more for calculating distances, determining angles, and solving real-world problems involving right triangles.
+
+#### JPEG Compression:
+- **Definition:** JPEG (Joint Photographic Experts Group) is a commonly used method for compressing digital images. It uses a lossy compression technique, which means that some data is lost during the compression process to reduce the file size.
+- **Discrete Cosine Transform (DCT):** DCT is a mathematical technique used in JPEG compression to convert spatial data (pixel values) into frequency components. This transformation helps in reducing redundancy in the image data and allows for more efficient compression.
+- **Spatial Domain:** In the context of image processing, the spatial domain refers to the representation of an image in terms of its spatial coordinates (pixels) and their intensity values.
+
+#### Euclidean Geometry:
+- **Definition:** Euclidean geometry is a branch of mathematics that deals with the study of geometric shapes and their properties based on the principles laid out by the ancient Greek mathematician Euclid.
+- **Key Concepts:** Euclidean geometry includes topics such as points, lines, angles, polygons, circles, and the relationships between them. It forms the foundation of geometric reasoning and is essential in various mathematical and practical applications.
+
+Feel free to ask if you need more information on any of these topics or related concepts!
